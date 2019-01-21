@@ -1,5 +1,12 @@
-# CoCoLink - A TANDY Color Computer RS-232 Pak Work-alike with Sockmaster mods
-This cartridge reproduces the functionality of the TANDY Color Computer RS-232 Pak, and includes hardware support for Sockmaster's RS232 Pak mods
+# CoCoLink - A TANDY Color Computer RS-232 Pak Work-alike with High Speed mods and Sockmaster mods
+This cartridge reproduces the functionality of the TANDY Color Computer RS-232 Pak with some performance enchancements.
+
+## Enhancements
+* Up to 4 cards are supported in a system ($ff68,$ff6c,$ff7x,$ff7c)
+* Supports additional, faster bps rates, including 57,600 bps, 115,200 bps, and 230,400 bps
+* Includes support for some of Sockmaster's [link](http://users.axess.com/twilight/sock/rs232.html "mods"), including:
+  * Swappable DCD and DSR lines
+  * Auto-RTS (incomplete support at present)
 
 ## License
 Copyright (C) 2018  RETRO Innovations
