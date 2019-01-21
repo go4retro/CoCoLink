@@ -4,7 +4,7 @@ This cartridge reproduces the functionality of the TANDY Color Computer RS-232 P
 ## Enhancements
 * Up to 4 cards are supported in a system ($ff68,$ff6c,$ff7x,$ff7c)
 * Supports additional, faster bps rates, including 57,600 bps, 115,200 bps, and 230,400 bps
-* Includes support for some of Sockmaster's [link](http://users.axess.com/twilight/sock/rs232.html "mods"), including:
+* Includes support for some of Sockmaster's [mods](http://users.axess.com/twilight/sock/rs232.html "mods"), including:
   * Swappable DCD and DSR lines
   * Auto-RTS (incomplete support at present)
 
